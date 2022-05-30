@@ -26,4 +26,5 @@ if [ boolean = "y" ] then
 	cd $server_name
 	nano start.sh
 	echo "Everything has been installed."
+exit
 fi
